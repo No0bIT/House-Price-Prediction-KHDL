@@ -1,0 +1,331 @@
+Masteri West Heights Nam Từ Liêm,68,Đông,Đông,2,2,None,3.8 
+Vinhome D'capitale Cầu Giấy,72,Đông Nam,Đông Nam,2,2,VinGroup,4.3 
+VinHome Smart City Nam Từ Liêm,61,Đông Bắc,Tây Nam,2,2,VinGroup,2.8 
+VinHome Smart City Nam Từ Liêm,82,Tây Bắc,Đông Nam,3,2,VinGroup,3.6 
+Masteri West Heights Nam Từ Liêm,52,Đông Bắc,Đông Nam,2,2,None,2.79 
+Masteri West Heights Nam Từ Liêm,80,Đông Nam,Đông Nam,3,2,None,4.7 
+Imperia Smart City Nam Từ Liêm,55,Tây Nam,Đông Bắc,2,1,VinGroup,2.45 
+VinHome Smart City Nam Từ Liêm,104,Đông Nam,None,3,2,VinGroup,3.4 
+Masteri West Heights Nam Từ Liêm,90,Đông Bắc,Đông Nam,3,2,None,4.5 
+Masteri West Heights Nam Từ Liêm,81.5,None,None,3,2,None,4.75 
+Grand Sunlake Hà Đông,112.8,Đông Bắc,Tây Nam,3,2,None,4.29 
+Anland Lakeview Hà Đông,73.6,Tây Bắc,Đông Nam,3,2,None,3.4 
+SeaSons Avenue Hà Đông,85,Tây Nam,Đông Nam,2,2,None,3.9 
+Booyoung Hà Đông,89,Tây Bắc,Đông Nam,3,2,None,3.75 
+Park Kiara Hà Hông,82,Đông,Tây,2,2,None,4.5 
+HPC Landmark Hà Đông,86,Tây Bắc,Đông Nam,3,2,None,3 
+The K Park Hà Đông,59,None,Đông Nam,2,2,None,2.35 
+SeaSons Avenue Hà Đông,76,None,None,None,None,None,3.6 
+CT4 Yên Nghĩa Hà Đông,67.54,Tây Bắc,Đông Nam,2,2,None,1.52 
+SeaSons Avenue Hà Đông,76,Đông Nam,Tây Bắc,2,2,None,3.8 
+Hồ Gươm Plaza Hà Đông,141,None,None,4,2,None,4.46 
+Vinhomes Gardenia Nam Từ Liêm,110,Tây,Tây,3,2,Vinhomes,5.8 
+Golden Palace Mễ Trì,100,Đông Bắc,Đông,2,2,M.I.K Corporation,6.1 
+Sun Grand City Thủ Lệ,85,Tây Nam,Tây,2,2,Sun Group,4.2 
+Lancaster Hà Nội Giảng Võ,120,Đông,Đông,3,2,Lancaster Group,8.3 
+Park Hill Times City Hai Bà Trưng,95,Tây,Tây,2,2,Vinhomes,4.9 
+Imperia Garden Tạ Quang Bửu,110,Đông Nam,Đông,3,2,MIKGroup,5.7 
+Vinhomes Skylake Phạm Hùng,130,Tây,Tây,3,2,Vinhomes,6.5 
+D’Capitale Trần Duy Hưng,75,Tây Nam,Tây,2,2,Tan Hoang Minh Group,4.1 
+Sunshine Riverside Tây Hồ,85,Đông,Đông,2,2,Sunshine Group,4.9 
+Eco Green City Hoàng Mai,100,Tây Bắc,Tây,3,2,Eco Group,5.2 
+Vinhomes Ocean Park Gia Lâm,125,Đông Nam,Đông,3,2,Vinhomes,6.8 
+Starlake Tây Hồ,95,Đông Bắc,Đông,2,2,Daewoo E&C,5.3 
+Mandarin Garden Cầu Giấy,120,Tây,Tây,3,2,Hoàng Minh Group,7.5 
+Goldseason 47 Nguyễn Tuân,105,Tây Nam,Tây,2,2,Hòa Bình,5.1 
+Imperia Sky Garden Thanh Xuân,80,Đông Nam,Đông,2,2,MIKGroup,4.2 
+Mipec Riverside Long Biên,135,Đông,Đông,3,2,Mipec,8.6 
+Sunshine City Nam Từ Liêm,110,Tây,Tây,3,2,Sunshine Group,6.2 
+Artemis Lê Văn Lương,95,Tây Nam,Tây,2,2,Artemis,4.8 
+Vinhomes Green Bay Mễ Trì,100,Đông Bắc,Đông,3,2,Vinhomes,5.5 
+Vinhomes Green Bay Mễ Trì,95,Tây,Đông,2,2,Vinhomes,5.2 
+Sunshine Palace Ciputra,120,Đông Nam,Tây Nam,3,2,Sunshine Group,7.8 
+Mulberry Lane Bắc Từ Liêm,85,Tây,Đông,2,2,MBLand,4.3 
+Royal City Thanh Xuân,110,Đông,Tây,3,2,Vinhomes,6.5 
+Eco Green City Hoàng Mai,75,Tây Bắc,Đông Nam,2,2,Eco Group,3.9 
+Mipec Riverside Long Biên,130,Đông Nam,Tây Bắc,3,2,Mipec,8.2 
+Sunshine Riverside Tây Hồ,90,Tây,Đông,2,2,Sunshine Group,5.6 
+Artemis Garden Lê Trọng Tấn,105,Tây Nam,Đông Bắc,3,2,Artemis,5.1 
+Imperia Sky Garden Thanh Xuân,80,Đông Nam,Tây,2,2,MIKGroup,4.2 
+Vinhomes Ocean Park Gia Lâm,125,Đông Bắc,Tây Nam,3,2,Vinhomes,6.9 
+Park Hill Times City Hai Bà Trưng,100,Đông,Tây,3,2,Vinhomes,5.2 
+Goldmark City Tây Hồ,95,Tây,Đông,2,2,TNR Holdings,4.6 
+Mipec Long Biên Long Biên,88,Tây Nam,Đông Bắc,2,2,Mipec,4.7 
+The Emerald Golf View Mễ Trì,135,Đông,Tây,3,2,Gamuda Land,8.5 
+Royal City Thanh Xuân,80,Đông Nam,Tây,2,2,Vinhomes,4.8 
+Lancaster Hà Nội Giảng Võ,115,Tây,Đông,3,2,Lancaster Group,7.2 
+Vinhomes Gardenia Nam Từ Liêm,88,Tây,Đông,2,2,Vinhomes,5.1 
+Artemis Lê Văn Lương,70,Tây Bắc,Đông Nam,2,2,Artemis,3.6 
+Goldseason 47 Nguyễn Tuân,100,Tây Nam,Đông,3,2,Hòa Bình,5.3 
+Sunshine City Nam Từ Liêm,120,Đông,Tây,3,2,Sunshine Group,6.8 
+Imperia Garden Tạ Quang Bửu,105,Đông Nam,Đông,3,2,MIKGroup,5.5 
+Vinhomes Skylake Phạm Hùng,95,Tây,Đông,2,2,Vinhomes,5.1 
+Sunshine Riverside Tây Hồ,88,Tây,Đông,2,2,Sunshine Group,5.4 
+Artemis Garden Lê Trọng Tấn,90,Đông,Tây,2,2,Artemis,4.9 
+Park Hill Times City Hai Bà Trưng,105,Đông Nam,Tây,3,2,Vinhomes,5.8 
+Mipec Riverside Long Biên,120,Đông,Tây,3,2,Mipec,7.3 
+Vinhomes Ocean Park Gia Lâm,130,Đông,Tây,3,2,Vinhomes,6.5 
+Goldmark City Tây Hồ,85,Tây,Đông,2,2,TNR Holdings,4.2 
+Mipec Long Biên Long Biên,78,Tây Nam,Đông Bắc,2,2,Mipec,4.3 
+The Emerald Golf View Mễ Trì,128,Đông Nam,Tây,3,2,Gamuda Land,8.2 
+Royal City Thanh Xuân,95,Đông,Tây,2,2,Vinhomes,5.6 
+Lancaster Hà Nội Giảng Võ,112,Tây,Đông,3,2,Lancaster Group,7.1 
+Vinhomes Gardenia Nam Từ Liêm,92,Tây,Đông,2,2,Vinhomes,5.4 
+Artemis Lê Văn Lương,75,Đông Nam,Tây Bắc,2,2,Artemis,3.9 
+Goldseason 47 Nguyễn Tuân,98,Tây Nam,Đông,3,2,Hòa Bình,5.1 
+Sunshine City Nam Từ Liêm,118,Đông,Tây,3,2,Sunshine Group,6.6 
+Imperia Sky Garden Thanh Xuân,85,Đông Nam,Tây,2,2,MIKGroup,4.4 
+Vinhomes Skylake Phạm Hùng,102,Tây,Đông,3,2,Vinhomes,5.9 
+Artemis Le Trọng Tấn Thanh Xuân,88,Đông,Tây,2,2,Artemis,4.7 
+Park Hill Times City Hai Bà Trưng,95,Đông Nam,Tây,2,2,Vinhomes,5.2 
+Sunshine Riverside Tây Hồ,92,Tây,Đông,2,2,Sunshine Group,5.7 
+Imperia Garden Tạ Quang Bửu,100,Đông Nam,Đông,3,2,MIKGroup,5.2 
+Vinhomes Skylake Phạm Hùng,110,Tây,Đông,3,2,Vinhomes,6.3 
+Mulberry Lane Bắc Từ Liêm,78,Tây,Đông,2,2,MBLand,4.1 
+Royal City Thanh Xuân,130,Đông,Tây,3,2,Vinhomes,7.5 
+Eco Green City Hoàng Mai,85,Tây Bắc,Đông Nam,2,2,Eco Group,4.2 
+Mipec Riverside Long Biên,125,Đông,Tây,3,2,Mipec,7.8 
+Vinhomes Ocean Park Gia Lâm,135,Đông,Tây,3,2,Vinhomes,6.7 
+Goldmark City Tây Hồ,92,Tây,Đông,2,2,TNR Holdings,4.5 
+Mipec Long Biên Long Biên,82,Tây Nam,Đông Bắc,2,2,Mipec,4.5 
+The Emerald Golf View Mễ Trì,140,Đông Nam,Tây,3,2,Gamuda Land,8.8 
+Royal City Thanh Xuân,88,Đông,Tây,2,2,Vinhomes,5.3 
+Lancaster Hà Nội Giảng Võ,115,Tây,Đông,3,2,Lancaster Group,7.3 
+Vinhomes Gardenia Nam Từ Liêm,95,Tây,Đông,2,2,Vinhomes,5.6 
+Artemis Lê Văn Lương,78,Đông Nam,Tây Bắc,2,2,Artemis,4.1 
+Goldseason 47 Nguyễn Tuân,105,Tây Nam,Đông,3,2,Hòa Bình,5.5 
+Sunshine City Nam Từ Liêm,125,Đông,Tây,3,2,Sunshine Group,6.9 
+Imperia Sky Garden Thanh Xuân,90,Đông Nam,Tây,2,2,MIKGroup,4.6 
+Vinhomes Skylake Phạm Hùng,98,Tây,Đông,3,2,Vinhomes,6.1 
+Artemis Le Trọng Tấn Thanh Xuân,92,Đông,Tây,2,2,Artemis,4.8 
+Grand Sunlake Hà Đông,113,None,None,3,2,None,5.5 
+Hồ Gươm Plaza Hà Đông,129,None,None,3,2,None,4 
+Grand Sunlake Hà Đông,96,Tây Nam,Đông Nam,3,3,None,4.18 
+Grand Sunlake Hà Đông,72,Đông Bắc,Tây Nam,2,2,None,2.66 
+CC Bình Vượng Hà Đông,146,None,Đông Nam,3,2,Cty TNHH Bình Vượng,3.3 
+Usilk City Hà Đông,116,None,Đông Nam,3,2,None,3.45 
+The Terra An Hưng Hà Đông,97,Tây,Tây Bắc,3,2,None,4 
+Euroland Mộ Lao Hà Đông,92,Tây Bắc,Tây Nam,2,1,TSQ Việt Nam,3.2 
+Thanh Hà Mường Thanh,77,Nam,Bắc,2,2,Tập Đoàn Mường Thanh,1.69 
+Thanh Hà Mường Thanh,70,None,None,None,None,Tập Đoàn Mường Thanh,1.02 
+KĐT Xa La Hà Đông,105,None,None,3,2,Xây dựng số 1 tỉnh điện biên,2.45 
+Sails Tower Hà Đông,104,Tây Nam,Đông Nam,3,2,TNHH Khải Hưng,2.5 
+Vinhomes Skylake Nam Từ Liêm,110,Tây,Tây,3,2,Vinhomes,5.1 
+Sun Grand City Thanh Xuân,95,Đông Bắc,Đông,3,2,Sun Group,4.6 
+Goldmark City Bắc Từ Liêm,80,Tây Nam,Tây,2,2,Ciputra,3.2 
+Mipec Riverside Long Biên,120,Đông Nam,Đông,3,2,Mipec,6.2 
+The Manor Cầu Giấy,130,Tây,Tây,3,2,Bitexco,7.8 
+Trung Hòa Nhân Chính Cầu Giấy,85,Đông,Tây,2,2,VinGroup,4.2 
+Royal City Thanh Xuân,100,Tây,Đông,3,2,VinGroup,5.8 
+Times City Hai Bà Trưng,75,Đông Bắc,Tây Nam,2,2,VinGroup,4.1 
+Vinhomes Green Bay Nam Từ Liêm,92,Đông Nam,Tây,3,2,VinGroup,5.3 
+EcoPark Văn Giang,110,Đông,Tây,3,2,Ecopark Development JSC,6.2 
+Vinhomes Riverside Long Biên,120,Đông Nam,Tây Bắc,3,2,VinGroup,7.5 
+Goldmark City Bắc Từ Liêm,88,Tây,Đông,2,2,Ciputra,4.3 
+Mulberry Lane Bắc Từ Liêm,105,Đông Nam,Tây Bắc,3,2,MBLand,5.5 
+Vinhomes Symphony Hai Bà Trưng,95,Đông,Tây,2,2,VinGroup,6.1 
+The Manor Mễ Trì,130,Tây,Đông,3,2,Bitexco,7.8 
+Starlake Tây Hồ,85,Tây Nam,Đông Bắc,2,2,Daewoo E&C,4.8 
+ParkCity Hanoi Bắc Từ Liêm,100,Tây,Đông,3,2,Malaysia Tourism City,6.4 
+Dolphin Plaza Cầu Giấy,92,Đông Nam,Tây Bắc,2,2,M.I.K Group,5.2 
+Vinhomes Metropolis Ba Đình,110,Đông Bắc,Tây Nam,3,2,VinGroup,7.2 
+Imperia Sky Garden Cầu Giấy,88,Tây,Đông,2,2,MIKGroup,5.6 
+Watermark Hanoi Cầu Giấy,120,Tây Nam,Đông Bắc,3,2,Refico,8.1 
+Lancaster Lê Thái Tổ Hoàn Kiếm,105,Đông,Tây,3,2,Lancaster Group,7.4 
+Metropolis Lieu Giai Ba Đình,95,Tây,Đông,2,2,VinGroup,6.3 
+Artemis Lê Văn Lương Thanh Xuân,82,Đông Nam,Tây Bắc,2,2,Artemis,4.5 
+The Artemis Hà Đông,90,Đông Bắc,Tây,3,2,Artemis,5.1 
+Royal City,90,Đông Nam,Đông,3,2,Vinhomes,4.5 
+D’. Le Roi Soleil,105,Tây Nam,Tây,3,2,D'.Capitale,5.8 
+Vinhomes Nguyen Chi Thanh,80,Đông Bắc,Đông,2,2,Vinhomes,3.9 
+HUD Tower,95,Tây Bắc,Tây,3,2,HUD Group,4.2 
+Five Star Garden,110,Đông,Đông,3,2,Five Star Group,5.1 
+Mulberry Lane,85,Tây,Tây,2,2,CapitaLand,4.3 
+The Artemis,120,Đông Nam,Đông,3,2,VinGroup,6.2 
+Dolphin Plaza,100,Đông Bắc,Đông,3,2,MIKGroup,4.8 
+Discovery Complex,130,Tây Nam,Tây,4,3,T&T Group,6.5 
+Vinhomes Green Bay,75,Đông,Đông,2,2,Vinhomes,3.6 
+tar City,95,Đông Bắc,Đông,3,2,Vietstarland,4.5 
+Sky Central,110,Đông Nam,Đông,3,2,FLC Group,5.8 
+Kosmo Tay Ho,120,Tây,Tây,3,2,Kosmo Group,6.2 
+Park Hill Times City,75,Đông,Đông,2,2,Vinhomes,3.2 
+D’. Le Roi Soleil,150,Tây Nam,Tây,4,3,D'.Capitale,8.3 
+Seasons Avenue,130,Đông Bắc,Đông,3,2,CapitaLand,6.9 
+Sunshine City,180,Đông Nam,Đông,4,3,Sunshine Group,9.6 
+Dolphin Plaza,90,Tây Bắc,Tây,3,2,MIKGroup,4.8 
+Artemis Ha Dong,105,Tây,Tây,3,2,VinGroup,5.3 
+Imperia Sky Garden,100,Đông,Đông,3,2,MIKGroup,5.1 
+Vinhomes Ocean Park,125,Đông Nam,Đông,3,2,Vinhomes,6.7 
+Golden Land,80,Đông Bắc,Đông,2,2,CapitaLand,3.8 
+Mulberry Lane,95,Tây Nam,Tây,3,2,CapitaLand,4.5 
+ParkCity Hanoi,135,Tây,Tây,4,3,Malaysia Property,7.2 
+Starlake,160,Đông Nam,Đông,4,3,Daewoo E&C,8.9 
+Vinhomes Symphony,70,Đông Bắc,Đông,2,2,Vinhomes,3.1 
+Vinhomes Smart City,115,Tây Nam,Tây,3,2,Vinhomes,6.1 
+The Link Ciputra,100,Đông,Đông,3,2,Ciputra,5.2 
+Sun Grand Thuy Khue,145,Tây,Tây,4,3,Sun Group,7.8 
+Mulberry Lane 2,95,Đông Nam,Đông,3,2,CapitaLand,5.1 
+D’. El Dorado,110,Tây,Tây,3,2,D'.Capitale,5.7 
+Vinhomes D'Capitale,85,Đông Bắc,Đông,2,2,Vinhomes,4.2 
+HUD Park 3,100,Tây Bắc,Tây,3,2,HUD Group,4.5 
+Five Star Garden City,120,Đông,Đông,3,2,Five Star Group,5.8 
+Vinhomes Gardenia,90,Tây,Tây,2,2,VinGroup,4.1 
+Lancaster Hanoi,130,Đông Nam,Đông,3,2,Trung Thủy Group,6.3 
+Vinhomes Smart City 2,88,Đông Bắc,Đông,2,2,VinGroup,4.3 
+Green Star Sky Garden,135,Đông Nam,Đông,4,3,Green Star Group,7.5 
+D’. Palais De Louis,70,Tây,Tây,2,2,D'.Capitale,3.2 
+Mipec Rubik 360,100,Đông Bắc,Đông,3,2,Mipec,5.1 
+Artemis Le Trong Tan 2,95,Đông,Đông,3,2,VinGroup,5.2 
+Discovery Complex 2,140,Tây Nam,Tây,4,3,T&T Group,7.2 
+Thanh Cong Tower,75,Đông Bắc,Đông,2,2,Thanh Cong Group,3.5 
+Park 11 Tower,125,Tây Nam,Tây,3,2,Park Group,6.7 
+Skylight Tower,95,Đông,Đông,3,2,Skylight Group,4.8 
+Golden Palace,105,Tây,Tây,3,2,Golden Land,5.3 
+Vinhome Metropolis,78.09,Tây Bắc,Đông Nam,2,None,VinGroup,6.5 
+Vinhome Metropolis,55,None,None,1,None,VinGroup,4.9 
+Diamond Park plaza,124,None,None,None,None,Tập đoàn BRG,11.99 
+Diamond Park plaza,57,Tây Nam,Đông Bắc,1,1,Tập đoàn BRG,4.4 
+Thành Công Tower,198.5,Đông Bắc,Tây Nam,4,2,Cty xây dựng số 1 Hà Nội,8.45 
+Vinhome Metropolis,50,Đông Nam,Tây Bắc,1,1,VinGroup,5.5 
+Chung Cư Vĩnh Phúc Hoàng Hoa Thám,50,None,None,2,1,None,1.55 
+Diamond Park plaza,57.1,Đông Bắc,Tây Nam,1,1,Tập đoàn BRG,4.44 
+Landcaster,125,Tây Bắc,Đông Nam,3,3,Tập Đoàn Trung Thủy,8.3 
+Vinhome Metropolis,120,None,None,3,2,VinGroup,13.2 
+Vinhome Metropolis,80,None,None,2,2,VinGroup,7.25 
+PentStudio Tây Hồ,96,None,None,3,2,TNHH đầu tư CTL,6.5 
+6th Element Tây Hồ,109,Bắc,Nam,3,2,Bắc Hà Group,7.8 
+Ciputra Tây Hồ,123,None,Tây Nam,3,2,TNHH Nam Thăng Long,4.4 
+6th Element Tây Hồ,83,Bắc,Nam,2,2,Bắc Hà Group,5.6 
+Ciputra Tây Hồ,145,Đông Bắc,Tây Nam,3,2,TNHH Nam Thăng Long,5.8 
+Heritage West Lake,94.92,None,Đông Nam,2,2,CapitaLand Development,8.85 
+Sunshine Riverside,94,Nam,Tây Nam,3,2,Tập đoàn Sunshine,4.15 
+Skyline West Lake,95.6,None,None,2,None,Công ty CP Nam Hưng - Nahucorp,8.3 
+Ciputra Tây Hồ,123,None,None,2,2,TNHH Nam Thăng Long,5.1 
+Ciputra Tây Hồ,114,Đông Bắc,Tây Nam,3,2,TNHH Nam Thăng Long,6 
+Sunshine Riverside,80,None,None,2,2,Tập đoàn Sunshine,3.8 
+Starlake Tây Hồ,101,Bắc,Đông,3,2,THT group,7  
+Mulberry Lane Đống Đa,100,Đông Nam,Đông,2,2,CapitaLand,5.0 
+D’. Leroi Soleil Đống Đa,105,Tây Nam,Tây,3,2,D'.Capitale,5.3 
+Vinhomes D'Capitale Đống Đa,85,Đông Bắc,Đông,2,2,Vinhomes,4.3 
+HUD Park Đống Đa,95,Tây Bắc,Tây,3,2,HUD Group,4.5 
+Five Star Garden City Đống Đa,110,Đông,Đông,3,2,Five Star Group,5.5 
+Vinhomes Gardenia Đống Đa,100,Tây,Tây,3,2,Vinhomes,4.8 
+Lancaster Hanoi Đống Đa,125,Đông Nam,Đông,3,2,Trung Thủy Group,6.3 
+Dolphin Plaza Đống Đa,110,Đông Bắc,Đông,3,2,MIKGroup,5.3 
+Discovery Complex Đống Đa,140,Tây Nam,Tây,3,2,T&T Group,6.7 
+Vinhomes Green Bay Đống Đa,95,Đông,Đông,2,2,Vinhomes,4.6 
+Indochina Plaza Hanoi Đống Đa,115,Đông Nam,Đông,3,2,Indochina Land,6.1 
+Thanh Cong Tower Đống Đa,85,Đông Bắc,Đông,2,2,Thanh Cong Group,4.1 
+Park 11 Tower Đống Đa,120,Tây Nam,Tây,3,2,Park Group,6.1 
+Skylight Tower Đống Đa,100,Đông,Đông,3,2,Skylight Group,5.1 
+Golden Palace Đống Đa,105,Tây,Tây,3,2,Golden Land,5.3 
+Vinhomes Smart City Đống Đa,85,Đông Bắc,Đông,2,2,Vinhomes,4.2 
+Green Star Sky Garden Đống Đa,130,Đông Nam,Đông,3,2,Green Star Group,7.0 
+D’. Palais De Louis Đống Đa,70,Tây,Tây,2,2,D'.Capitale,3.2 
+Mipec Rubik 360 Đống Đa,105,Đông Bắc,Đông,3,2,Mipec,5.0 
+Artemis Le Trong Tan Đống Đa,100,Đông,Đông,3,2,VinGroup,5.1 
+Mulberry Lane Đống Đa,95,Tây Nam,Tây,2,2,CapitaLand,4.8 
+D’. Leroi Soleil Đống Đa,120,Tây Nam,Tây,3,2,D'.Capitale,6.0 
+Vinhomes D'Capitale Đống Đa,75,Đông Bắc,Đông,2,2,Vinhomes,4.0 
+HUD Park Đống Đa,90,Tây Bắc,Tây,2,2,HUD Group,4.0 
+Five Star Garden City Đống Đa,130,Đông,Đông,3,2,Five Star Group,5.5 
+Vinhomes Ocean Park Gia Lâm,85,Đông Nam,Đông,2,2,Vinhomes,3.5 
+Sunshine City Ciputra Bắc Từ Liêm,110,Tây,Tây,3,2,Sunshine Group,4.8 
+Starlake Tây Hồ,95,Đông Bắc,Đông,2,2,Daewoo E&C,4.2 
+Goldmark City Thanh Xuân,80,Đông,Đông,2,2,TNR Holdings,2.8 
+Imperia Sky Garden Thanh Xuân,100,Tây,Tây,3,2,M.I.K Corporation,3.9 
+Royal City Thanh Xuân,120,Đông Nam,Đông,3,2,Vinhomes,5.6 
+Park City Times City Hai Bà Trưng,90,Đông Bắc,Đông,3,2,VinGroup,4.3 
+Vinhomes Metropolis Ba Đình,125,Tây Nam,Tây,3,2,Vinhomes,7.2 
+Lotte Center Hà Nội Ba Đình,75,Đông Nam,Đông,2,2,Lotte Group,5.0 
+Lancaster Hanoi Ba Đình,95,Đông,Đông,2,2,Trung Thủy Group,6.4 
+Vinhomes Nguyen Chi Thanh Đống Đa,85,Đông Bắc,Đông,2,2,Vinhomes,4.7 
+Mipec Riverside Long Biên,100,Tây,Tây,3,2,Mipec,4.5 
+Sunshine Riverside Tây Hồ,110,Đông Nam,Đông,3,2,Sunshine Group,5.2 
+Artemis Lê Trọng Tấn Hà Đông,85,Tây Bắc,Tây,2,2,VinGroup,3.2 
+Kosmo Tây Hồ Tây,95,Đông,Đông,2,2,Xuan Mai Corp,4.6 
+The Manor Hoài Đức,100,Tây,Tây,3,2,Bitexco Group,4.0 
+Star Tower Thanh Xuân,90,Đông Nam,Đông,2,2,Vimefulland,3.9 
+Vinhomes Green Villas Hoàng Mai,120,Tây Nam,Tây,3,2,Vinhomes,6.8 
+Intracom Riverside Long Biên,85,Đông Bắc,Đông,2,2,Intracom,3.5 
+Vinhomes Smart City Thanh Xuân,95,Đông,Đông,3,2,Vinhomes,4.5 
+D’. Capitale Trần Duy Hưng Cầu Giấy,110,Tây Nam,Tây,3,2,D'.Capitale,5.9 
+KeangNam Landmark 72 Cầu Giấy,75,Đông Nam,Đông,2,2,KeangNam,4.2 
+Eurowindow MultiComplex Cầu Giấy,85,Tây Bắc,Tây,2,2,Eurowindow Holding,3.8 
+Star City Lê Văn Lương Thanh Xuân,100,Đông,Đông,3,2,PK Development,4.3 
+Vinhomes Times City Hai Bà Trưng,120,Tây,Tây,3,2,VinGroup,5.6 
+Vinhomes Gardenia Cầu Giấy,95,Đông Nam,Đông,2,2,Vinhomes,4.7 
+Imperia Sky Garden Tòa CT8B Cầu Giấy,100,Tây,Tây,3,2,M.I.K Corporation,4.0 
+Kosmo Tây Hồ,90,Đông Bắc,Đông,2,2,Xuan Mai Corp,4.5 
+The Manor Central Park Hoài Đức,105,Tây Nam,Tây,3,2,Bitexco Group,4.2 
+Vinhomes Green Villas Nguyễn Xiển Hoàng Mai,110,Đông,Đông,3,2,Vinhomes,5.0 
+Intracom Riverside C Long Biên,85,Đông Nam,Đông,2,2,Intracom,3.5 
+Vinhomes Smart City Thanh Xuân,95,Đông,Đông,3,2,Vinhomes,4.5 
+D’. Capitale Trần Duy Hưng Cầu Giấy,110,Tây Nam,Tây,3,2,D'.Capitale,5.9 
+KeangNam Landmark 72 Cầu Giấy,75,Đông Nam,Đông,2,2,KeangNam,4.2 
+Eurowindow MultiComplex Cầu Giấy,85,Tây Bắc,Tây,2,2,Eurowindow Holding,3.8 
+Star City Lê Văn Lương Thanh Xuân,100,Đông,Đông,3,2,PK Development,4.3 
+Vinhomes Times City Hai Bà Trưng,120,Tây,Tây,3,2,VinGroup,5.6 
+Vinhomes Ocean Park Gia Lâm,85,Đông Nam,Đông,2,2,Vinhomes,3.5 
+Sunshine City Ciputra Bắc Từ Liêm,110,Tây,Tây,3,2,Sunshine Group,4.8 
+Starlake Tây Hồ,95,Đông Bắc,Đông,2,2,Daewoo E&C,4.2 
+Goldmark City Thanh Xuân,80,Đông,Đông,2,2,TNR Holdings,2.8 
+Imperia Sky Garden Thanh Xuân,100,Tây,Tây,3,2,M.I.K Corporation,3.9 
+Royal City Thanh Xuân,120,Đông Nam,Đông,3,2,Vinhomes,5.6 
+Park City Times City Hai Bà Trưng,90,Đông Bắc,Đông,3,2,VinGroup,4.3 
+Vinhomes Metropolis Ba Đình,125,Tây Nam,Tây,3,2,Vinhomes,7.2 
+Lotte Center Hà Nội Ba Đình,75,Đông Nam,Đông,2,2,Lotte Group,5.0 
+Lancaster Hanoi Ba Đình,95,Đông,Đông,2,2,Trung Thủy Group,6.4 
+Vinhomes Nguyen Chi Thanh Đống Đa,85,Đông Bắc,Đông,2,2,Vinhomes,4.7 
+Mipec Riverside Long Biên,100,Tây,Tây,3,2,Mipec,4.5 
+Sunshine Riverside Tây Hồ,110,Đông Nam,Đông,3,2,Sunshine Group,5.2 
+Kosmo Tây Hồ,80,Đông Bắc,Đông,2,2,Xuan Mai Corp,4.0 
+The Manor Central Park Hoài Đức,95,Tây Nam,Tây,3,2,Bitexco Group,3.8 
+Vinhomes Green Villas Nguyễn Xiển Hoàng Mai,100,Đông,Đông,3,2,Vinhomes,4.8 
+Intracom Riverside C Long Biên,90,Đông Nam,Đông,2,2,Intracom,3.6 
+Vinhomes Smart City Thanh Xuân,100,Đông,Đông,3,2,Vinhomes,4.8 
+D’. Capitale Trần Duy Hưng Cầu Giấy,115,Tây Nam,Tây,3,2,D'.Capitale,6.2 
+KeangNam Landmark 72 Cầu Giấy,80,Đông Nam,Đông,2,2,KeangNam,4.6 
+Eurowindow MultiComplex Cầu Giấy,90,Tây Bắc,Tây,2,2,Eurowindow Holding,4.2 
+Star City Lê Văn Lương Thanh Xuân,105,Đông,Đông,3,2,PK Development,4.5 
+Vinhomes Times City Hai Bà Trưng,115,Tây,Tây,3,2,VinGroup,5.2 
+Vinhomes Ocean Park Gia Lâm,90,Đông Nam,Đông,2,2,Vinhomes,3.8 
+Sunshine City Ciputra Bắc Từ Liêm,105,Tây,Tây,3,2,Sunshine Group,4.5 
+Starlake Tây Hồ,100,Đông Bắc,Đông,2,2,Daewoo E&C,4.0 
+Goldmark City Thanh Xuân,85,Đông,Đông,2,2,TNR Holdings,3.2 
+Imperia Sky Garden Thanh Xuân,95,Tây,Tây,3,2,M.I.K Corporation,4.0 
+Royal City Thanh Xuân,110,Đông Nam,Đông,3,2,Vinhomes,5.2 
+Park City Times City Hai Bà Trưng,95,Đông Bắc,Đông,3,2,VinGroup,4.5 
+Vinhomes Metropolis Ba Đình,130,Tây Nam,Tây,3,2,Vinhomes,7.0 
+Lotte Center Hà Nội Ba Đình,80,Đông Nam,Đông,2,2,Lotte Group,4.8 
+Lancaster Hanoi Ba Đình,105,Đông,Đông,2,2,Trung Thủy Group,6.0 
+Vinhomes Nguyen Chi Thanh Đống Đa,90,Đông Bắc,Đông,2,2,Vinhomes,4.5 
+Mipec Riverside Long Biên,105,Tây,Tây,3,2,Mipec,4.8 
+Sunshine Riverside Tây Hồ,115,Đông Nam,Đông,3,2,Sunshine Group,5.5 
+Kosmo Tây Hồ,85,Đông Bắc,Đông,2,2,Xuan Mai Corp,4.2 
+The Manor Central Park Hoài Đức,100,Tây Nam,Tây,3,2,Bitexco Group,4.5 
+Vinhomes Green Villas Nguyễn Xiển Hoàng Mai,105,Đông,Đông,3,2,Vinhomes,4.9 
+Intracom Riverside C Long Biên,95,Đông Nam,Đông,2,2,Intracom,3.8 
+Vinhomes Smart City Thanh Xuân,105,Đông,Đông,3,2,Vinhomes,4.9 
+D’. Capitale Trần Duy Hưng Cầu Giấy,120,Tây Nam,Tây,3,2,D'.Capitale,6.5 
+KeangNam Landmark 72 Cầu Giấy,85,Đông Nam,Đông,2,2,KeangNam,4.8 
+Eurowindow MultiComplex Cầu Giấy,95,Tây Bắc,Tây,2,2,Eurowindow Holding,4.5 
+Star City Lê Văn Lương Thanh Xuân,110,Đông,Đông,3,2,PK Development,4.8 
+Vinhomes Times City Hai Bà Trưng,120,Tây,Tây,3,2,VinGroup,5.8 
+Vinhomes Ocean Park Gia Lâm,95,Đông Nam,Đông,2,2,Vinhomes,4.0 
+Sunshine City Ciputra Bắc Từ Liêm,110,Tây,Tây,3,2,Sunshine Group,4.7 
+Starlake Tây Hồ,105,Đông Bắc,Đông,2,2,Daewoo E&C,4.2 
+Goldmark City Thanh Xuân,90,Đông,Đông,2,2,TNR Holdings,3.5 
+Imperia Sky Garden Thanh Xuân,100,Tây,Tây,3,2,M.I.K Corporation,4.2 
+Royal City Thanh Xuân,115,Đông Nam,Đông,3,2,Vinhomes,5.4 
+Park City Times City Hai Bà Trưng,100,Đông Bắc,Đông,3,2,VinGroup,4.8 
+Vinhomes Metropolis Ba Đình,135,Tây Nam,Tây,3,2,Vinhomes,7.5 
+Lotte Center Hà Nội Ba Đình,85,Đông Nam,Đông,2,2,Lotte Group,5.2 
+Lancaster Hanoi Ba Đình,110,Đông,Đông,2,2,Trung Thủy Group,6.2 
+Vinhomes Nguyen Chi Thanh Đống Đa,95,Đông Bắc,Đông,2,2,Vinhomes,4.8 
+Mipec Riverside Long Biên,110,Tây,Tây,3,2,Mipec,5.0 
+Sunshine Riverside Tây Hồ,120,Đông Nam,Đông,3,2,Sunshine Group,5.8 
+Kosmo Tây Hồ,90,Đông Bắc,Đông,2,2,Xuan Mai Corp,4.3 
+The Manor Central Park Hoài Đức,105,Tây Nam,Tây,3,2,Bitexco Group,4.7 
+Vinhomes Green Villas Nguyễn Xiển Hoàng Mai,110,Đông,Đông,3,2,Vinhomes,5.2 
+Intracom Riverside C Long Biên,100,Đông Nam,Đông,3,2,Intracom,4.0 
